@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @sandeepgh0sh
-- 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Cyber Security tools.
+- 👋 Hi, I’m sandeep
+- 💻 I code in C, C++, Java, Python and Golang.
+- 👌 A little bit of frontend languages too
+- 👀 I’m interested in Web Development and Cyber Security.
+- 🌱 I’m currently learning OSCP
+- 💞️ I’m looking to contribute towards open source.
 
 <!---
 sandeepgh0sh/sandeepgh0sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
