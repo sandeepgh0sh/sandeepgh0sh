@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sandeep
+- 👋 Hello World!
 - 💻 I code in C, C++, Java, Python and Golang.
 - 👌 A little bit of frontend languages too
 - 👀 I’m interested in Web Development and Cyber Security.
